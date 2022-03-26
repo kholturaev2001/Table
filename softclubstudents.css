@@ -1,0 +1,76 @@
+
+table, th, td{
+    border-collapse: collapse;
+    width: 90%;
+    border: 1px solid black;
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+th{
+    background-color: darksalmon;
+    writing-mode: vertical-rl;
+    width: auto;
+    text-align: left;
+}
+
+.verybig {
+    font-size: 400%;
+    width: 30%;
+    writing-mode: horizontal-tb;
+    background-color: rgb(132, 220, 250);
+}
+
+.blue {
+    background-color: rgb(132, 220, 250);
+    width: auto;
+}
+
+.darkred {
+    background-color: darksalmon;
+    width: auto;
+}
+
+.red {
+    background-color: red;
+    color: blue;
+    width: auto;
+    text-align: center;
+
+}
+
+.number {
+    background-color: rgb(132, 220, 250);
+    width: 50px;
+}
+
+.green {
+    background-color: yellowgreen;
+    width: auto;
+}
+
+.yellow {
+    background-color: darkorange;
+    width: auto;
+    text-align: center;
+}
+
+.bblue {
+    background-color: cornflowerblue;
+    width: auto;
+}
+
+.date {
+    writing-mode: horizontal-tb;
+    background-color: rgb(210, 240, 250);
+}
+td {
+    width: auto;
+}
+
+.lblue {
+    background-color: rgb(210, 240, 250);
+}
